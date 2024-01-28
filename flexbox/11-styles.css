@@ -493,7 +493,7 @@
     transition-property: color, background-color;
   }
   
-  /* The Card TESTIMONIAL
+  /* Card TESTIMONIAL
       ============================= */
   
   .card-testimonial {
@@ -528,7 +528,7 @@
 
   /*** ARTICLE PAGE ***/
 
-  /* The Section HERO (article)
+  /* Section HERO (article)
     ============================= */
   .hero-article {
     background-size: 150rem 100rem;
